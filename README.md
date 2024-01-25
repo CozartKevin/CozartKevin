@@ -23,7 +23,7 @@ Here are some ideas to get you started:
 
 ## 🚀 What I Do
 
-- **Software Engineer:** Leveraging 8 years in IT Systems Administration, I've recently transitioning to software development. Graduated with Distinction in Computer Science from Sonoma State University.
+- **Software Engineer:** Leveraging 8 years in IT Systems Administration troubleshooting, I've recently transitioning to software development. Graduated with Distinction in Computer Science from Sonoma State University.
 - **C++ Specialist:** Proficient in C++, I enjoy crafting efficient and elegant software solutions.
 - **Audio Explorer:** Fascinated by audio engineering, I explore the art of sound in technology.
 
