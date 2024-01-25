@@ -57,6 +57,7 @@ Here are some ideas to get you started:
 ## 📚 Learning & Growth
 
 - Continuously expanding skills in C++ development and exploring new horizons in audio engineering.
+- Striving to learn more about JUCE, DSP, FMOD, Wwise, Music Theory, Piano, and music production. 
 
 ## 📫 Let's Connect
 
