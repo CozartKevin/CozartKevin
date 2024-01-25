@@ -18,7 +18,9 @@ Here are some ideas to get you started:
 
 # Kevin Cozart - Software Engineer & Audio Enthusiast
 
-👋 Hello! I'm Kevin Cozart, a Software Engineer and USMC Veteran, passionate about C++ development and audio engineering. Welcome to my coding and audio adventures!
+🎶 Heya! I'm Kevin Cozart, a Software Engineer and USMC Veteran, passionate about C++ development and audio engineering. 
+
+Welcome to my coding and audio adventures!
 
 ## 🚀 What I Do
 
@@ -59,7 +61,7 @@ Here are some ideas to get you started:
 
 ## 📫 Let's Connect
 
-- [LinkedIn](www.linkedin.com/in/CozartKevin)
-- [GitHub](www.github.com/CozartKevin)
+- 🎹 [LinkedIn](https://www.linkedin.com/in/CozartKevin)
+- 🎵 [GitHub](https://www.github.com/CozartKevin)
 
 Feel free to explore my projects and reach out for collaboration or discussions. Let's create something amazing together!
