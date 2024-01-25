@@ -15,7 +15,9 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
  
-
+<a href="https://github.com/YourGitHubUsername">
+  <img src="https://avatars.githubusercontent.com/u/12538924?v=4" alt="Kevin Cozart" width="100" style="border-radius: 50%;">
+</a>
 
 # [![Kevin Cozart](https://avatars.githubusercontent.com/u/12538924?v=4)](https://github.com/CozartKevin) - Software Engineer & Audio Enthusiast
 
