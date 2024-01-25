@@ -1,6 +1,6 @@
-### Hi there 👋
 
-<!--
+<!-- ### Hi there 👋
+
 **CozartKevin/CozartKevin** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
@@ -59,7 +59,7 @@ Here are some ideas to get you started:
 
 ## 📫 Let's Connect
 
-- [LinkedIn](linkedin.com/in/CozartKevin)
-- [GitHub](github.com/CozartKevin)
+- [LinkedIn](www.linkedin.com/in/CozartKevin)
+- [GitHub](www.github.com/CozartKevin)
 
 Feel free to explore my projects and reach out for collaboration or discussions. Let's create something amazing together!
