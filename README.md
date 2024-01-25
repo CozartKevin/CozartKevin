@@ -14,9 +14,10 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+ 
 
 
-# Kevin Cozart - Software Engineer & Audio Enthusiast
+# [![Kevin Cozart](https://avatars.githubusercontent.com/u/12538924?v=4)](https://github.com/CozartKevin) - Software Engineer & Audio Enthusiast
 
 👋 Hello! I'm Kevin Cozart, a Software Engineer and USMC Veteran, passionate about C++ development and audio engineering. Welcome to my coding and audio adventures!
 
