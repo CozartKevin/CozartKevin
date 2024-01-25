@@ -61,7 +61,7 @@ Welcome to my coding and audio adventures!
 
 ## 📫 Let's Connect
 
-- 🎹 <a href="https://www.linkedin.com/in/CozartKevin" target="_blank">[Linkedin]</a>
-- 🎵 <a href="https://www.github.com/CozartKevin" target="_blank">[GitHub]</a>
+- 🎹 [LinkedIn](https://www.linkedin.com/in/CozartKevin){:target="_blank"}
+- 🎵 [GitHub](https://www.github.com/CozartKevin){:target="_blank"}
 
 Feel free to explore my projects and reach out for collaboration or discussions. Let's create something amazing together!
