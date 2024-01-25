@@ -49,10 +49,10 @@ Here are some ideas to get you started:
 -->
 ## 🛠️ Tools & Technologies
 
-- **Languages:** C, C++, C#, HTML, CSS, JavaScript, PHP, GLSL (OpenGL Shading Language) WebGL, Bash, PowerShell
-- **Frameworks:** Vue.js, Three.js (with emphasis on C++)
-- **Tools:** Unity Game Engine, Git, SQL Server, SSMS, PostgreSQL
-- **Dev Concepts:** Debugging, Collaborative Problem-Solving, HPC, Parallel Programming Models, VR, AR, Agile, Scrum
+- **Languages:** C++, C#, GLSL (OpenGL Shading Language) WebGL, Bash, PowerShell
+- **Frameworks:** JUCE
+- **Tools:** Unity Game Engine, Git, Wwise, FMOD
+- **Dev Concepts:** Debugging, Collaborative Problem-Solving, DSP, HPC, Parallel Programming Models, VR, AR, Agile, Scrum
 
 ## 📚 Learning & Growth
 
