@@ -61,7 +61,7 @@ Here are some ideas to get you started:
 
 ## 📫 Let's Connect
 
-- [LinkedIn](www.linkedin.com/in/CozartKevin)
-- [GitHub](www.github.com/CozartKevin)
+- [LinkedIn](https://www.linkedin.com/in/CozartKevin)
+- [GitHub](https://www.github.com/CozartKevin)
 
 Feel free to explore my projects and reach out for collaboration or discussions. Let's create something amazing together!
