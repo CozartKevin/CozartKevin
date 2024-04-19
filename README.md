@@ -1,22 +1,22 @@
 
-# Kevin Cozart - C++ Software Engineer & U.S. Marine Corps Veteran
+# 🚀 Kevin Cozart - C++ Software Engineer & U.S. Marine Corps Veteran 🎵
 
 👋 Greetings! I'm Kevin Cozart, a C++ Software Engineer and U.S. Marine Corps Veteran, passionate about software development and audio engineering. Welcome to my coding journey!
 
-## 🚀 What I Do
+## 🎮 What I Do
 
 - **Software Engineer:** With 8 years of IT Systems Administration experience, I recently graduated with a Distinction in Computer Science from Sonoma State University, demonstrating proficiency in troubleshooting and effective collaboration.
 - **C++ Specialist:** Proficient in C++ and experienced in frameworks like JUCE, I specialize in crafting efficient and elegant software solutions.
 - **Audio Explorer:** Fascinated by audio engineering, I explore the art of sound in technology, delving into DSP, music theory, and music production.
 
-## 💡 Projects
+## 🎶 Projects
 
 ### Software Development Highlights
 
 #### JUCE Framework Tutorials
 - Comprehensive tutorials following the JUCE framework website's guidelines, showcasing proficiency in audio software development.
 
-#### Piano Reference Webpage
+#### Piano Reference Webpage 🎹
 - Created a semi-modular webpage assisting musicians in visualizing scales in different keys, demonstrating skills in web development and music theory.
 
 #### CS-315 Data Structure Assignments
