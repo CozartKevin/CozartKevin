@@ -24,7 +24,8 @@
 - Topics may include: internal representation of the elementary and intermediate data structures such as stacks, queues, binary trees, heaps and hash tables, their time and space requirements, and their applications.  A second component of the course is the study of more advanced features of object-oriented programming.
 
 #### CS-385 Introduction to Graphics
-- Developed projects using OpenGL, GLSL Shaders, HTML, JavaScript, and CSS as outlined in Sonoma State University's CS-385 Introduction to Graphics course, showcasing expertise in graphics programming. 
+- Developed projects using OpenGL, GLSL Shaders, HTML, JavaScript, and CSS as outlined in Sonoma State University's CS-385 Introduction to Graphics course, showcasing expertise in graphics programming.
+- Topics may include: fundamental algorithms and methodologies, including, but not limited to, polygon fill, line-drawing, antialiasing, geometric transformations, viewing and clipping, spline representation, occlusion and visible surface detection, illumination, texturing, color models, rendering, shaders, animation, and emerging techniques.
 
 #### CS-480 Artificial Intelligence
 - Explored Artificial Intelligence concepts and implementations following Sonoma State University's CS-480 Artificial Intelligence course, demonstrating skills in AI development.
