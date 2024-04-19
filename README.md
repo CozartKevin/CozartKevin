@@ -1,5 +1,5 @@
 
-# 🚀 Kevin Cozart - C++ Software Engineer & U.S. Marine Corps Veteran 🎵
+# Kevin Cozart - C++ Software Engineer & U.S. Marine Corps Veteran 
 
 👋 Greetings! I'm Kevin Cozart, a C++ Software Engineer and U.S. Marine Corps Veteran, passionate about software development and audio engineering. Welcome to my coding journey!
 
