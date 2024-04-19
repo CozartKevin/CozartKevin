@@ -1,52 +1,37 @@
 
-<!-- ### Hi there 👋
+# Kevin Cozart - C++ Software Engineer & U.S. Marine Corps Veteran
 
-**CozartKevin/CozartKevin** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
- 
-
-
-# Kevin Cozart - Software Engineer & Audio Enthusiast
-
-👋 Hello! I'm Kevin Cozart, a Software Engineer and USMC Veteran, passionate about C++ development and audio engineering. Welcome to my coding and audio adventures!
+👋 Greetings! I'm Kevin Cozart, a C++ Software Engineer and U.S. Marine Corps Veteran, passionate about software development and audio engineering. Welcome to my coding journey!
 
 ## 🚀 What I Do
 
-- **Software Engineer:** Leveraging 8 years in IT Systems Administration troubleshooting, I've recently transitioning to software development. Graduated with Distinction in Computer Science from Sonoma State University.
-- **C++ Specialist:** Proficient in C++, I enjoy crafting efficient and elegant software solutions.
-- **Audio Explorer:** Fascinated by audio engineering, I explore the art of sound in technology.
+- **Software Engineer:** With 8 years of IT Systems Administration experience, I recently graduated with a Distinction in Computer Science from Sonoma State University, demonstrating proficiency in troubleshooting and effective collaboration.
+- **C++ Specialist:** Proficient in C++ and experienced in frameworks like JUCE, I specialize in crafting efficient and elegant software solutions.
+- **Audio Explorer:** Fascinated by audio engineering, I explore the art of sound in technology, delving into DSP, music theory, and music production.
 
 ## 💡 Projects
 
-### Software Engineering Marvels
-<!--
-#### Project 1: [Unity XR Visualization for STEM Programs]
-- Developed a Unity-based XR visualization for STEM programs.
-- Played a key role in the project, addressing spatialization challenges in point-cloud databases from LAS files (820 Million data points).
-- Explored spatial data structures, culling, and level-of-detail techniques for performance enhancements.
+### Software Development Highlights
 
-#### Project 2: [Additional C++ Project]
-- Brief description of another C++ project showcasing specific skills.
+#### JUCE Framework Tutorials
+- Comprehensive tutorials following the JUCE framework website's guidelines, showcasing proficiency in audio software development.
 
-### Audio Engineering Wonders
+#### Piano Reference Webpage
+- Created a semi-modular webpage assisting musicians in visualizing scales in different keys, demonstrating skills in web development and music theory.
 
-#### Project 3: [Audio Project Name]
-- Delve into an audio project, discussing tools and techniques used in your audio engineering journey.
+#### CS-315 Data Structure Assignments
+- Completed assignments following Sonoma State University's CS-315 Data Structure course, highlighting proficiency in data structures and algorithms.
 
-#### Project 4: [Another Audio Project]
-- Explore another audio-related project, sharing insights into your role and the impact of the project.
--->
+#### CS-385 Introduction to Graphics
+- Developed projects using OpenGL, GLSL Shaders, HTML, JavaScript, and CSS as outlined in Sonoma State University's CS-385 Introduction to Graphics course, showcasing expertise in graphics programming.
+
+#### CS-480 Artificial Intelligence
+- Explored Artificial Intelligence concepts and implementations following Sonoma State University's CS-480 Artificial Intelligence course, demonstrating skills in AI development.
+
+#### Unity Game Dev Projects
+- Engaged in a variety of greybox, half-finished projects, and tutorials utilizing the Unity game engine and C#, showcasing proficiency in game development.
+
+
 ## 🛠️ Tools & Technologies
 
 - **Languages:** C++, C#, GLSL (OpenGL Shading Language) WebGL, Bash, PowerShell
@@ -57,7 +42,7 @@ Here are some ideas to get you started:
 ## 📚 Learning & Growth
 
 - Continuously expanding skills in C++ development and exploring new horizons in audio engineering.
-- Striving to learn more about JUCE, DSP, FMOD, Wwise, Music Theory, Piano, and music production. 
+- Striving to learn more about JUCE, DSP, FMOD, Wwise, Music Theory, Piano, and music production.
 
 ## 📫 Let's Connect
 
