@@ -26,7 +26,7 @@
 - Developed projects using OpenGL, GLSL Shaders, HTML, JavaScript, and CSS as outlined in Sonoma State University's CS-385 Introduction to Graphics course, showcasing expertise in graphics programming.
 
 #### CS-480 Artificial Intelligence
-- Explored Artificial Intelligence concepts and implementations following Sonoma State University's CS-480 Artificial Intelligence course, demonstrating skills in AI development.
+- Explored Artificial Intelligence concepts and implementations following Sonoma State University's CS-480 Artificial Intelligence course, demonstrating skills in AI development. Topics may include: pattern recognition, general problem solving, search algorithms such as iterative deepening and A* search, adversarial game-tree search, decision-making, neural networks, various machine learning algorithms and applications.
 
 #### Unity Game Dev Projects
 - Engaged in a variety of greybox, half-finished projects, and tutorials utilizing the Unity game engine and C#, showcasing proficiency in game development.
