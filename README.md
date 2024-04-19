@@ -36,7 +36,7 @@
 
 - **Languages:** C++, C#, GLSL (OpenGL Shading Language) WebGL, Bash, PowerShell
 - **Frameworks:** JUCE
-- **Tools:** Unity Game Engine, Git, Wwise, FMOD
+- **Tools:** Git, Unity Game Engine, Visual Studio, VS Code
 - **Dev Concepts:** Debugging, Collaborative Problem-Solving, DSP, HPC, Parallel Programming Models, VR, AR, Agile, Scrum
 
 ## 📚 Learning & Growth
