@@ -38,9 +38,11 @@
 ## 🛠️ Tools & Technologies
 
 - **Languages:** C++, C#, GLSL (OpenGL Shading Language) WebGL, Bash, PowerShell
-- **Frameworks:** JUCE
-- **Tools:** Git, Unity Game Engine, Visual Studio, VS Code
-- **Dev Concepts:** Debugging, Collaborative Problem-Solving, DSP, HPC, Parallel Programming Models, VR, AR, Agile, Scrum
+- **Frameworks:** JUCE, VexFlow
+- **Integrated Development Environments (IDEs):** Visual Studio, Visual Studio Code
+- **Graphics & Audio Tools:** Unity Game Engine, OpenGL, Wwise, FMOD
+- **Web Development Tools:** WebGL, HTML5, CSS3, JavaScript
+- **Dev Concepts:** Debugging, Algorithm Analysis, DSP (Digital Signal Processing), Agile, Scrum, Object-Oriented Programming (OOP), Software Testing, Continuous Integration (CI)/Continuous Deployment (CD), Game Development Principles, Graphics Programming, Artificial Intelligence, Machine Learning, Neural Networks, Pattern Recognition
 
 ## 📚 Learning & Growth
 
