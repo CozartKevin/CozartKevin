@@ -19,7 +19,7 @@
 #### Piano Reference Webpage 🎹
 - Created a semi-modular webpage assisting musicians in visualizing scales in different keys, demonstrating skills in web development and music theory.
 
-#### CS-315 Data Structure Assignments
+#### [CS-315 Data Structure Assignments](https://github.com/CozartKevin/CS-315_Data_Structures_SSU)
 - Completed assignments following Sonoma State University's CS-315 Data Structure course, highlighting proficiency in data structures and algorithms.
 - Topics may include: internal representation of the elementary and intermediate data structures such as stacks, queues, binary trees, heaps and hash tables, their time and space requirements, and their applications.  A second component of the course is the study of more advanced features of object-oriented programming.
 
