@@ -15,7 +15,7 @@
 
 #### JUCE Framework Tutorials
 [JUCE Tutorials Repository](https://github.com/CozartKevin/JUCE-Tutorials)
-- This repository tracks my exploration and the building of refrence material made while using the tutorials that cover various aspects of audio software development using the JUCE framework. These tutorials provide hands-on guidance and examples to 
+- This repository tracks my exploration and the building of reference material made while using the tutorials that cover various aspects of audio software development using the JUCE framework. These tutorials provide hands-on guidance and examples to 
   help you master the art of creating professional audio applications with JUCE.
 - Topics may include:
   - Introduction to JUCE: Get started with JUCE by learning about its features, architecture, and how to set up your development environment.
@@ -27,6 +27,10 @@
 #### Piano Reference Webpage 🎹
 [Piano Reference Repository](https://github.com/CozartKevin/Piano_Reference_Webpage-Scales)
 - Created a semi-modular webpage assisting musicians in visualizing scales in different keys, demonstrating skills in web development and music theory.
+- Topics may include:
+  - VexFlow framework usage
+  - HTML, CSS & JavaScript utilization.  
+   
 
 #### CS-315 Data Structure Assignments
 [CS-315 Data Structure Repository](https://github.com/CozartKevin/CS-315_Data_Structures_SSU)
@@ -46,7 +50,7 @@
 [CS-480 Artificial Intelligence Repository](https://github.com/CozartKevin/CS-480_Artificial_Intelligence_SSU)
 - Explored Artificial Intelligence concepts and implementations following Sonoma State University's CS-480 Artificial Intelligence course, demonstrating skills in AI development.
 - Topics may include:
-  - Pattern recognition, general problem solving, search algorithms such as iterative deepening and A* search, adversarial game-tree search, decision-making, neural networks, various machine learning algorithms and applications.
+  - Pattern recognition, general problem solving, search algorithms such as iterative deepening and A* search, adversarial game-tree search, decision-making, neural networks, various machine learning algorithms, and applications.
 
 #### Unity Game Dev Projects
 [Unity Game Dev Projects Repository](https://github.com/CozartKevin/Unity_Game_Dev_Projects)
