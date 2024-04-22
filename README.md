@@ -13,25 +13,31 @@
 
 ### Software Development Highlights
 
-#### [JUCE Framework Tutorials](https://github.com/CozartKevin/JUCE-Tutorials)
+#### JUCE Framework Tutorials
+[Project Repo Link](https://github.com/CozartKevin/JUCE-Tutorials)
 - Comprehensive tutorials following the JUCE framework website's guidelines, showcasing proficiency in audio software development.
 
-#### [Piano Reference Webpage 🎹](https://github.com/CozartKevin/Piano_Reference_Webpage-Scales)
+#### Piano Reference Webpage 🎹
+[Project Repo Link](https://github.com/CozartKevin/Piano_Reference_Webpage-Scales)
 - Created a semi-modular webpage assisting musicians in visualizing scales in different keys, demonstrating skills in web development and music theory.
 
-#### [CS-315 Data Structure Assignments](https://github.com/CozartKevin/CS-315_Data_Structures_SSU)
+#### CS-315 Data Structure Assignments
+[Project Repo Link](https://github.com/CozartKevin/CS-315_Data_Structures_SSU)
 - Completed assignments following Sonoma State University's CS-315 Data Structure course, highlighting proficiency in data structures and algorithms.
 - Topics may include: internal representation of the elementary and intermediate data structures such as stacks, queues, binary trees, heaps and hash tables, their time and space requirements, and their applications.  A second component of the course is the study of more advanced features of object-oriented programming.
 
-#### [CS-385 Introduction to Graphics](https://github.com/CozartKevin/CS385-Intro_To_Graphics_SSU)
+#### CS-385 Introduction to Graphics
+[Project Repo Link](https://github.com/CozartKevin/CS385-Intro_To_Graphics_SSU)
 - Developed projects using OpenGL, GLSL Shaders, HTML, JavaScript, and CSS as outlined in Sonoma State University's CS-385 Introduction to Graphics course, showcasing expertise in graphics programming.
 - Topics may include: fundamental algorithms and methodologies, including, but not limited to, polygon fill, line-drawing, antialiasing, geometric transformations, viewing and clipping, spline representation, occlusion and visible surface detection, illumination, texturing, color models, rendering, shaders, animation, and emerging techniques.
 
-#### [CS-480 Artificial Intelligence](https://github.com/CozartKevin/CS-480_Artificial_Intelligence_SSU)
+#### CS-480 Artificial Intelligence
+[Project Repo Link](https://github.com/CozartKevin/CS-480_Artificial_Intelligence_SSU)
 - Explored Artificial Intelligence concepts and implementations following Sonoma State University's CS-480 Artificial Intelligence course, demonstrating skills in AI development.
 - Topics may include: pattern recognition, general problem solving, search algorithms such as iterative deepening and A* search, adversarial game-tree search, decision-making, neural networks, various machine learning algorithms and applications.
 
-#### [Unity Game Dev Projects](https://github.com/CozartKevin/Unity_Game_Dev_Projects)
+#### Unity Game Dev Projects
+[Project Repo Link](https://github.com/CozartKevin/Unity_Game_Dev_Projects)
 - Engaged in a variety of greybox, half-finished projects, and tutorials utilizing the Unity game engine and C#, showcasing proficiency in game development.
 
 
