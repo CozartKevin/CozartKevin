@@ -15,7 +15,8 @@
 
 #### JUCE Framework Tutorials
 [JUCE Tutorials Repository](https://github.com/CozartKevin/JUCE-Tutorials)
-- Explore a series of tutorials covering various aspects of audio software development using the JUCE framework. These tutorials provide hands-on guidance and examples to help you master the art of creating professional audio applications with JUCE.
+- This repository tracks my exploration and the building of refrence material made while using the tutorials that cover various aspects of audio software development using the JUCE framework. These tutorials provide hands-on guidance and examples to 
+  help you master the art of creating professional audio applications with JUCE.
 - Topics may include:
   - Introduction to JUCE: Get started with JUCE by learning about its features, architecture, and how to set up your development environment.
   - Audio Processing: Dive into audio processing fundamentals, including audio playback, recording, and real-time audio effects.
