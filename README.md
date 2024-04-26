@@ -74,6 +74,6 @@
 ## 📫 Let's Connect
 
 - [LinkedIn](https://www.linkedin.com/in/CozartKevin)
-- [GitHub](https://www.github.com/CozartKevin)
+- [GitHub Repository](https://github.com/CozartKevin?tab=repositories)
 
 Feel free to explore my projects and reach out for collaboration or discussions. Let's create something amazing together!
