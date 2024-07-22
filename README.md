@@ -12,6 +12,13 @@
 
 ### Software Development Highlights
 
+#### Piano Reference Webpage 🎹
+[Piano Reference Repository](https://github.com/CozartKevin/Piano_Reference_Webpage-Scales)
+- Created a semi-modular webpage assisting musicians in visualizing scales in different keys, demonstrating skills in web development and music theory.
+- Topics include:
+  - VexFlow framework usage
+  - HTML, CSS, and JavaScript utilization
+
 #### JUCE Framework Tutorials
 [JUCE Tutorials Repository](https://github.com/CozartKevin/JUCE-Tutorials)
 - This repository tracks my exploration and the building of reference material while using tutorials that cover various aspects of audio software development using the JUCE framework. These tutorials provide hands-on guidance and examples to help you master the art of creating professional audio applications with JUCE.
@@ -21,13 +28,6 @@
   - User Interface Design
   - Plugin Development
   - Advanced Topics
-
-#### Piano Reference Webpage 🎹
-[Piano Reference Repository](https://github.com/CozartKevin/Piano_Reference_Webpage-Scales)
-- Created a semi-modular webpage assisting musicians in visualizing scales in different keys, demonstrating skills in web development and music theory.
-- Topics include:
-  - VexFlow framework usage
-  - HTML, CSS, and JavaScript utilization
 
 #### CS-315 Data Structure Assignments
 [CS-315 Data Structure Repository](https://github.com/CozartKevin/CS-315_Data_Structures_SSU)
