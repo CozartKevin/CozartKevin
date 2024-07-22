@@ -4,7 +4,7 @@
 
 ## 🎮 What I Do
 
-- **Software Engineer:** With 8 years of IT Systems Administration experience, I recently graduated with a Distinction in Computer Science from Sonoma State University, demonstrating proficiency in troubleshooting and effective collaboration.
+- **Software Engineer:** With 9 years of IT Systems Administration experience, I recently graduated with a Distinction in Computer Science from Sonoma State University, demonstrating proficiency in troubleshooting and effective collaboration.
 - **C++ Specialist:** Proficient in C++ and experienced in frameworks like JUCE, I specialize in crafting efficient and elegant software solutions.
 - **Audio Explorer:** Fascinated by audio engineering, I explore the art of sound in technology, delving into DSP, music theory, and music production.
 
