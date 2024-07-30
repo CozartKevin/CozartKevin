@@ -13,11 +13,9 @@
 ### Software Development Highlights
 
 #### Piano Reference Webpage 🎹
-**Repository**: [Piano Reference Repository](https://github.com/CozartKevin/Piano_Reference_Webpage-Scales)
-
-**Technologies**: VexFlow, HTML, CSS, JavaScript
-
-**Description**: Created a semi-modular webpage for musicians to visualize scales in different keys. Demonstrated skills in web development and music theory.
+**Repository**: [Piano Reference Repository](https://github.com/CozartKevin/Piano_Reference_Webpage-Scales)<br>
+**Technologies**: VexFlow, HTML, CSS, JavaScript<br>
+**Description**: Created a semi-modular webpage for musicians to visualize scales in different keys. Demonstrated skills in web development and music theory.<br>
 
 #### JUCE Framework Tutorials
 **Repository**: [JUCE Tutorials Repository](https://github.com/CozartKevin/JUCE-Tutorials)
