@@ -1,60 +1,46 @@
-# Kevin Cozart - C++ Software Engineer & U.S. Marine Corps Veteran 
+# Kevin Cozart 
+**C++ Software Engineer | U.S. Marine Corps Veteran** 
 
-👋 Greetings! I'm Kevin Cozart, a C++ Software Engineer and U.S. Marine Corps Veteran, passionate about software development and audio engineering. Welcome to my coding journey!
+👋 Hello! I'm Kevin Cozart, a dedicated C++ Software Engineer with a background in IT Systems Administration and a passion for audio engineering and game development. Welcome to my portfolio!
 
-## 🎮 What I Do
-
-- **Software Engineer:** With 9 years of IT Systems Administration experience, I recently graduated with a Distinction in Computer Science from Sonoma State University, demonstrating proficiency in troubleshooting and effective collaboration.
-- **C++ Specialist:** Proficient in C++ and experienced in frameworks like JUCE, I specialize in crafting efficient and elegant software solutions.
-- **Audio Explorer:** Fascinated by audio engineering, I explore the art of sound in technology, delving into DSP, music theory, and music production.
+## What I Do
+- **Software Engineer**: Leveraging 9 years of IT Systems Administration experience and a degree in Computer Science with Distinction from Sonoma State University. Skilled in troubleshooting and collaboration.
+- **C++ Specialist**: Expertise in C++ and frameworks like JUCE, focusing on creating efficient and elegant software solutions.
+- **Audio Explorer**: Passionate about audio engineering, exploring DSP, music theory, and music production.
 
 ## 🎶 Projects
 
 ### Software Development Highlights
 
 #### Piano Reference Webpage 🎹
-[Piano Reference Repository](https://github.com/CozartKevin/Piano_Reference_Webpage-Scales)
-- Created a semi-modular webpage assisting musicians in visualizing scales in different keys, demonstrating skills in web development and music theory.
-- Topics include:
-  - VexFlow framework usage
-  - HTML, CSS, and JavaScript utilization
+**Repository**: [Piano Reference Repository](https://github.com/CozartKevin/Piano_Reference_Webpage-Scales)
+**Technologies**: VexFlow, HTML, CSS, JavaScript
+**Description**: Created a semi-modular webpage for musicians to visualize scales in different keys. Demonstrated skills in web development and music theory.
 
 #### JUCE Framework Tutorials
-[JUCE Tutorials Repository](https://github.com/CozartKevin/JUCE-Tutorials)
-- This repository tracks my exploration and the building of reference material while using tutorials that cover various aspects of audio software development using the JUCE framework. These tutorials provide hands-on guidance and examples to help you master the art of creating professional audio applications with JUCE.
-- Topics include:
-  - Introduction to JUCE
-  - Audio Processing
-  - User Interface Design
-  - Plugin Development
-  - Advanced Topics
+**Repository**: [JUCE Tutorials Repository](https://github.com/CozartKevin/JUCE-Tutorials)
+**Technologies**: C++, JUCE
+**Description**: Explored audio software development with JUCE, covering topics like audio processing and UI design.
 
 #### CS-315 Data Structure Assignments
-[CS-315 Data Structure Repository](https://github.com/CozartKevin/CS-315_Data_Structures_SSU)
-- Completed assignments following Sonoma State University's CS-315 Data Structure course, highlighting proficiency in data structures and algorithms.
-- Topics include:
-  - Internal representation of data structures
-  - Advanced object-oriented programming features
+**Repository**: [CS-315 Data Structure Repository](https://github.com/CozartKevin/CS-315_Data_Structures_SSU)
+**Technologies**: C++, Data Structures
+**Description**: Completed assignments from the CS-315 course, demonstrating proficiency in advanced data structures and algorithms.
 
 #### CS-385 Introduction to Graphics
-[CS-385 Intro to Graphics Repository](https://github.com/CozartKevin/CS385-Intro_To_Graphics_SSU)
-- Developed projects using OpenGL, GLSL Shaders, HTML, JavaScript, and CSS, showcasing expertise in graphics programming.
-- Topics include:
-  - Polygon fill, line-drawing, and antialiasing
-  - Geometric transformations and viewing
-  - Advanced rendering and shaders
+**Repository**: [CS-385 Intro to Graphics Repository](https://github.com/CozartKevin/CS385-Intro_To_Graphics_SSU)
+**Technologies**: OpenGL, GLSL, HTML, JavaScript, CSS
+**Description**: Developed projects showcasing expertise in graphics programming.
 
 #### CS-480 Artificial Intelligence
-[CS-480 Artificial Intelligence Repository](https://github.com/CozartKevin/CS-480_Artificial_Intelligence_SSU)
-- Explored AI concepts and implementations, demonstrating skills in AI development.
-- Topics include:
-  - Pattern recognition and problem solving
-  - Search algorithms and decision-making
-  - Neural networks and machine learning
+**Repository**: [CS-480 Artificial Intelligence Repository](https://github.com/CozartKevin/CS-480_Artificial_Intelligence_SSU)
+**Technologies**: C++, AI, Machine Learning
+**Description**: Explored AI concepts, including neural networks and search algorithms.
 
 #### Unity Game Dev Projects
-[Unity Game Dev Projects Repository](https://github.com/CozartKevin/Unity_Game_Dev_Projects)
-- Engaged in various projects and tutorials utilizing the Unity game engine and C#, showcasing proficiency in game development.
+**Repository**: [Unity Game Dev Projects Repository](https://github.com/CozartKevin/Unity_Game_Dev_Projects)
+**Technologies**: Unity, C#
+**Description**: Engaged in game development projects, demonstrating skills in Unity and C#.
 
 ## 🛠️ Tools & Technologies
 
