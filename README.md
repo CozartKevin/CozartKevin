@@ -8,7 +8,7 @@
 - **C++ Specialist**: Expertise in C++ and frameworks like JUCE, focusing on creating efficient and elegant software solutions.
 - **Audio Explorer**: Passionate about audio engineering, exploring DSP, music theory, and music production.
 
-## 🎶 Projects
+## Projects
 
 ### Software Development Highlights
 
@@ -50,14 +50,16 @@
 - **Web Development**: HTML5, CSS3, JavaScript
 - **Concepts**: Debugging, Algorithm Analysis, DSP, Agile, Scrum, OOP, Software Testing, CI/CD, Game Development, Graphics Programming, AI, Machine Learning, Neural Networks, Pattern Recognition
 
-## 📚 Learning & Growth
+## Learning & Growth
+Continuously expanding skills in C++ development and exploring new horizons in audio engineering, focusing on:
+- JUCE, DSP, FMOD, Wwise
+- Music Theory, Piano, Music Production
 
-- Continuously expanding skills in C++ development and exploring new horizons in audio engineering.
-- Learning more about JUCE, DSP, FMOD, Wwise, Music Theory, Piano, and music production.
 
-## 📫 Let's Connect
-
-- [LinkedIn](https://www.linkedin.com/in/CozartKevin)
-- [GitHub Repository](https://github.com/CozartKevin?tab=repositories)
+## Let's Connect
+- **LinkedIn**:  [LinkedIn](https://www.linkedin.com/in/CozartKevin)
+- **GitHub**: [GitHub Repository](https://github.com/CozartKevin?tab=repositories)
+- **Email**: cozartkevin@gmail.com
 
 Feel free to explore my projects and reach out for collaboration or discussions. Let's create something amazing together!
+
