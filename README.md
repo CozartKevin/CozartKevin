@@ -14,7 +14,9 @@
 
 #### Piano Reference Webpage 🎹
 **Repository**: [Piano Reference Repository](https://github.com/CozartKevin/Piano_Reference_Webpage-Scales)
+
 **Technologies**: VexFlow, HTML, CSS, JavaScript
+
 **Description**: Created a semi-modular webpage for musicians to visualize scales in different keys. Demonstrated skills in web development and music theory.
 
 #### JUCE Framework Tutorials
