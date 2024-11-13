@@ -67,7 +67,6 @@ I'm actively expanding my knowledge in software engineering and exploring new ar
 
 ## Let's Connect  
 - **LinkedIn**: [Kevin Cozart on LinkedIn](https://www.linkedin.com/in/CozartKevin)  
-- **GitHub**: [Explore My GitHub Projects](https://github.com/CozartKevin?tab=repositories)  
-- **Email**: cozartkevin@gmail.com  
+- **GitHub**: [Explore My GitHub Projects](https://github.com/CozartKevin?tab=repositories)   
 
 Feel free to explore my projects or reach out to discuss collaboration opportunities. I'm always looking to connect with fellow developers and explore new ideas. Let's create something impactful together!
