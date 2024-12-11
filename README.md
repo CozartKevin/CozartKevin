@@ -19,15 +19,15 @@
 - **Technologies**: C++, GLSL, OpenGL, ImGui  
 - **Overview**: Created an interactive environment for experimenting with shaders, focusing on real-time graphics rendering and shader programming. The platform integrates an intuitive UI for live shader editing, showcasing skills in graphics programming, OpenGL, and shader optimization.
 
-### Piano Reference Webpage 🎹  
-- **Repository**: [Piano Reference Repository](https://github.com/CozartKevin/Piano_Reference_Webpage-Scales)  
-- **Technologies**: VexFlow, HTML, CSS, JavaScript  
-- **Overview**: Built a semi-modular webpage for musicians to visualize musical scales, applying web development and music theory to create an interactive learning tool.
-
 ### JUCE Framework Tutorials  
 - **Repository**: [JUCE Tutorials Repository](https://github.com/CozartKevin/JUCE-Tutorials)  
 - **Technologies**: C++, JUCE  
 - **Overview**: Developed audio processing applications using JUCE, demonstrating expertise in audio DSP, UI design, and real-time audio software development.
+
+### Piano Reference Webpage 🎹  
+- **Repository**: [Piano Reference Repository](https://github.com/CozartKevin/Piano_Reference_Webpage-Scales)  
+- **Technologies**: VexFlow, HTML, CSS, JavaScript  
+- **Overview**: Built a semi-modular webpage for musicians to visualize musical scales, applying web development and music theory to create an interactive learning tool.
 
 ### Graphics Programming with OpenGL  
 - **Repository**: [CS-385 Intro to Graphics Repository](https://github.com/CozartKevin/CS385-Intro_To_Graphics_SSU)  
