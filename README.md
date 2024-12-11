@@ -14,6 +14,11 @@
 
 ## Highlighted Projects  
 
+### ShaderPlayground  
+- **Repository**: [ShaderPlayground Repository](https://github.com/CozartKevin/ShaderPlayground)  
+- **Technologies**: C++, GLSL, OpenGL, ImGui  
+- **Overview**: Created an interactive environment for experimenting with shaders, focusing on real-time graphics rendering and shader programming. The platform integrates an intuitive UI for live shader editing, showcasing skills in graphics programming, OpenGL, and shader optimization.
+
 ### Piano Reference Webpage 🎹  
 - **Repository**: [Piano Reference Repository](https://github.com/CozartKevin/Piano_Reference_Webpage-Scales)  
 - **Technologies**: VexFlow, HTML, CSS, JavaScript  
