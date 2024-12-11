@@ -1,7 +1,7 @@
 # Kevin Cozart  
 **C++ Software Engineer | U.S. Marine Corps Veteran**  
 
-👋 **Welcome!** I'm Kevin Cozart, an excitable C++ Software Engineer with a strong background in IT Systems Administration. My focus is on developing scalable, high-performance software solutions, with a keen interest in graphics programming, audio development, and game engines.
+👋 **Hi there!** I'm Kevin Cozart, a C++ Software Engineer with a solid background in IT Systems Administration. With 9 years of experience in IT, I’ve shifted my focus to software development, where I leverage C++ to solve problems and create efficient software solutions. I thrive on tackling new challenges in any discipline, with a particular interest in graphics programming, audio development, and performance optimization.
 
 ---
 
