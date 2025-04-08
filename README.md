@@ -14,6 +14,11 @@
 
 ## Highlighted Projects  
 
+### Dev Environment Bootstrapper  
+- **Repository**: [DevEnvBootstrapper Repository](https://github.com/CozartKevin/Dev_Env_Setup))  
+- **Technologies**: PowerShell, JSON, Git, vcpkg  
+- **Overview**: Developed a PowerShell-based script to automate the setup and management of a development environment. The script uses a dynamic JSON configuration to handle the installation, uninstallation, and updating of tools and libraries, streamlining C++ project setup. Demonstrates proficiency in automation, configuration management, and DevOps practices.
+
 ### ShaderPlayground  
 - **Repository**: [ShaderPlayground Repository](https://github.com/CozartKevin/ShaderPlayground)  
 - **Technologies**: C++, GLSL, OpenGL, ImGui  
