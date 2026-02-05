@@ -1,5 +1,5 @@
 # Kevin Cozart  
-**C++ Developer | IT Systems Administrator | U.S. Marine Corps Veteran**  
+**C++ Developer | Senior IT Systems Administrator | U.S. Marine Corps Veteran**  
 *Building a strong foundation in modern C++ with interests in audio, graphics, and performance-aware software.*
 
 👋 **Hi there!** I'm Kevin Cozart — an IT Systems Administrator with over 10 years of production infrastructure experience and a Computer Science degree, building a growing foundation in modern C++ software development.
