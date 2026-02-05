@@ -1,68 +1,86 @@
 # Kevin Cozart  
-**C++ Software Engineer | U.S. Marine Corps Veteran**  
-*Building high-performance C++ software focused on audio, graphics, and optimization.*
+**C++ Developer | IT Systems Administrator | U.S. Marine Corps Veteran**  
+*Building a strong foundation in modern C++ with interests in audio, graphics, and performance-aware software.*
 
-👋 **Hi there!** I'm Kevin Cozart, a C++ Software Engineer with a strong background in IT Systems Administration. With 10 years of IT experience and a Bachelor’s degree in Computer Science, I specialize in building efficient, scalable software solutions. I thrive on tackling new challenges, especially in graphics programming, real-time audio development, and performance optimization.
+👋 **Hi there!** I'm Kevin Cozart — an IT Systems Administrator with over 10 years of production infrastructure experience and a Computer Science degree, building a growing foundation in modern C++ software development.
+
+My background spans systems administration, networking, virtualization, automation, and reliability-focused operations. Alongside my IT career, I’ve pursued software development through coursework and personal learning projects, focusing on C++, performance-aware design, and low-level problem solving.
+
+I’m particularly interested in real-time audio processing, graphics programming concepts, and performance-focused C++ code, and I use GitHub to document learning projects, experiments, and technical growth.
 
 ---
 
 ## What I Offer  
-- **Software Development Expertise**: Combining 10 years of IT Systems Administration experience with a Bachelor’s degree in Computer Science, I deliver efficient and robust software solutions.  
-- **C++ and Performance Optimization**: Skilled in C++ and frameworks like JUCE, focusing on optimizing performance and scalability across diverse applications.  
-- **Audio and Graphics Programming**: Experienced in real-time audio processing and advanced graphics techniques using tools such as OpenGL, JUCE, and Unity.  
+
+- **Systems & Infrastructure Expertise**  
+  Over a decade of hands-on experience designing, deploying, and maintaining secure, reliable IT environments across diverse clients and technologies.
+
+- **C++ Software Development Foundations**  
+  Strong grounding in modern C++ from academic study and personal projects, with emphasis on correctness, performance, and maintainable design.
+
+- **Audio & Graphics Exploration**  
+  Practical exploration of real-time audio processing and graphics programming concepts using tools such as JUCE, OpenGL, and WebGL.
 
 ---
 
 ## Highlighted Projects  
 
-### ToneCascade  
+### ToneCascade *(In Progress)*  
 - **Repository**: [ToneCascade](https://github.com/CozartKevin/ToneCascade)  
-- **Technologies**: C++, JUCE, OpenGL, GLSL, OpenMP, OpenACC, MPI (optional), CMake, PowerShell  
-- **Overview**: ToneCascade is a production-ready, high-performance real-time audio visualizer and DSP engine developed in modern C++. It captures live or pre-recorded audio using JUCE, performs FFT-based frequency analysis, and renders dynamic visuals with OpenGL and GLSL shaders. The project leverages OpenMP for multithreaded processing, with optional OpenACC and MPI support for GPU acceleration and distributed computing. Demonstrates expertise in low-latency audio systems, parallel computing, real-time graphics, and cross-platform DevOps automation.
+- **Technologies**: C++, JUCE, CMake  
+- **Overview**:  
+  An experimental real-time audio analysis and visualization project built in modern C++. The project explores audio capture, FFT-based frequency analysis, and low-latency processing concepts using JUCE. Current work focuses on DSP fundamentals and real-time system behavior, with future plans for visualization and performance optimization.
 
-### Graphics Programming with OpenGL  
+### Graphics Programming Foundations  
 - **Repository**: [CS-385 Intro to Graphics Repository](https://github.com/CozartKevin/CS385-Intro_To_Graphics_SSU)  
 - **Technologies**: OpenGL, GLSL, HTML, JavaScript, CSS  
-- **Overview**: Created projects that demonstrate skills in shader programming, 3D rendering, and graphics optimization.
+- **Overview**:  
+  Coursework and exploratory projects demonstrating foundational computer graphics concepts including transformations, shader programming, rendering techniques, and animation using WebGL and JavaScript.
 
 ### Data Structures and Algorithms  
 - **Repository**: [CS-315 Data Structures Repository](https://github.com/CozartKevin/CS-315_Data_Structures_SSU)  
-- **Technologies**: C++, Data Structures  
-- **Overview**: Implemented complex data structures and algorithms, highlighting problem-solving abilities and a solid understanding of computational efficiency.
+- **Technologies**: C++  
+- **Overview**:  
+  Academic implementations of core data structures and algorithms, emphasizing problem solving, computational efficiency, and clean C++ design.
 
-### AI and Machine Learning Concepts  
+### Artificial Intelligence Concepts  
 - **Repository**: [CS-480 Artificial Intelligence Repository](https://github.com/CozartKevin/CS-480_Artificial_Intelligence_SSU)  
-- **Technologies**: C++, Machine Learning  
-- **Overview**: Explored AI algorithms, neural networks, and search strategies, applying these techniques to solve computational problems.
+- **Technologies**: C++  
+- **Overview**:  
+  Coursework-based exploration of AI fundamentals including search algorithms, decision-making strategies, and introductory machine learning concepts.
 
-### Game Development with Unity  
+### Game Development Experiments  
 - **Repository**: [Unity Game Dev Projects Repository](https://github.com/CozartKevin/Unity_Game_Dev_Projects)  
 - **Technologies**: Unity, C#  
-- **Overview**: Developed interactive games with Unity, demonstrating skills in game design, scripting, and use of game engines.
+- **Overview**:  
+  Small-scale game development projects exploring interactive systems, scripting, and engine-based workflows.
 
 ---
 
 ## Tools & Technologies  
+
 - **Programming Languages**: C++, C#, GLSL, WebGL, Bash, PowerShell  
-- **Frameworks & APIs**: JUCE, OpenGL, VexFlow, Unity  
+- **Frameworks & APIs**: JUCE, OpenGL, Unity  
 - **Development Tools**: Visual Studio, Visual Studio Code, Git  
-- **Audio & Graphics Tools**: FMOD, Wwise, OpenGL  
-- **Web Development**: HTML5, CSS3, JavaScript  
-- **Software Development Concepts**: Debugging, Optimization, DSP, Agile, Scrum, OOP, CI/CD, Algorithm Design, Game Development, AI, Machine Learning  
+- **Web Technologies**: HTML5, CSS3, JavaScript  
+- **Core Concepts**: Debugging, Performance Awareness, DSP Fundamentals, OOP, Algorithm Design, Systems Thinking  
 
 ---
 
 ## Continuous Learning  
-I'm actively expanding my skills in software engineering and exploring new areas, including:  
-- **Advanced C++ Development**  
-- **Real-time Audio Processing with JUCE**  
-- **Game Development Techniques with Unity and OpenGL**  
-- **Machine Learning and AI Algorithms**  
+
+I use this space to document learning, experimentation, and technical growth. Current areas of focus include:
+
+- Modern C++ best practices  
+- Real-time audio processing fundamentals  
+- Graphics programming concepts (OpenGL / WebGL)  
+- Performance-aware and systems-oriented software design  
 
 ---
 
-## Let's Connect  
+## Let’s Connect  
+
 - **LinkedIn**: [Kevin Cozart on LinkedIn](https://www.linkedin.com/in/CozartKevin)  
 - **GitHub**: [Explore My GitHub Projects](https://github.com/CozartKevin?tab=repositories)  
 
-Feel free to explore my projects or reach out to discuss collaboration opportunities. I'm always open to connecting with fellow developers and exploring new ideas. Let's create something impactful together!
+Feel free to explore my repositories or reach out to connect. I’m always open to thoughtful technical discussion and collaboration.
