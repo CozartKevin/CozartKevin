@@ -1,18 +1,11 @@
 # Kevin Cozart
 
-**Senior IT Systems Administrator | Infrastructure Automation | Systems Engineering | U.S. Marine Corps Veteran**
+**Senior IT Systems Administrator | Automation & Tooling Enthusiast | U.S. Marine Corps Veteran**
 
-I have over 10 years of experience designing, supporting, and automating IT infrastructure across production environments. My background includes systems administration, virtualization, networking, backup operations, scripting, and operational troubleshooting.
+I'm a Senior IT Systems Administrator with over 10 years of experience supporting production infrastructure and a B.S. in Computer Science from Sonoma State University.
 
-This GitHub profile documents the engineering side of that work through automation projects, software development experiments, academic computer science projects, and infrastructure-focused tooling.
+My professional experience spans systems administration, virtualization, networking, backup operations, troubleshooting, and end-user support. Alongside that work, I enjoy building software, scripting solutions, and automating repetitive operational tasks.
 
-Current areas of interest include:
+This GitHub profile contains a mix of automation projects, software development experiments, and academic computer science work. My current interests include PowerShell automation, systems engineering, C++, audio software, and tools development.
 
-* Infrastructure Automation
-* PowerShell Development
-* Systems Engineering
-* C++ Development
-* Audio Software Exploration
-* Operational Tooling and Monitoring
-
-My goal is to build reliable, maintainable solutions that reduce manual effort, improve operational visibility, and solve real-world technical problems.
+I am particularly interested in roles that combine infrastructure knowledge with programming and automation to improve reliability, efficiency, and operational visibility.
